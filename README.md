@@ -1,8 +1,9 @@
-Landing Page Sample
+Karve Software Landing Page
 
-This is a template web page used to show how to build a responsive
-web site that utilizes Flexbox and other HTML/CSS techniques.
+This is the landing page for Karve Software @ http://karvesoftware.com
 
-The page is viewable here: https://kcrites.github.io/landingpage/
+
+
+
 
 
